@@ -1,8 +1,8 @@
 ## Hello There 👋
  <div>
   <a href="https://github.com/NSResende">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=NSResende&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSResende&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=NSResende&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSResende&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
  
