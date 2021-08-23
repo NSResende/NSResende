@@ -1,4 +1,6 @@
 ## Hello There 👋
+
+- 🔭 I’m currently working at [Aurum](https://aurum.com.br/)
  <div>
   <a href="https://github.com/NSResende">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=NSResende&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
