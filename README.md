@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-- 🔭 I’m currently working at [Aurum](https://aurum.com.br/)
+- 🔭  I’m currently working at [Aurum](https://aurum.com.br/)
  <div>
   <a href="https://github.com/NSResende">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=NSResende&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -20,3 +20,11 @@
   <a href = "mailto:nataresende1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ntresende" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+ 
+ ##
+ <a href="https://github.com/NSResende/StarWarsArchive">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NSResende&repo=StarWarsArchive" />
+</a>
+<a href="https://github.com/NSResende/Covid-19-status-Brazil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NSResende&repo=Covid-19-status-Brazil" />
+</a>
