@@ -6,12 +6,6 @@ Atuo como desenvolvedor front-end há 2 anos e atualmente trabalho na [Aurum Sof
 
 Sou responsável por criar componentes escaláveis, ao mesmo tempo que desempenham uma boa performance em SEO e traceabilidade. Também sou responsável pela organização das tarefas de desenvolvimento, manutenção dos ambientes de homologação e produção, além de participar de reuniões com foco em melhorias e oportunidades para o site e Portal da [Aurum](https://aurum.com.br/).
 
-Nice to meet you, I'm Natã :}
-
-I have been working as a front-end developer for 2 years and currently work at [Aurum Software](https://aurum.com.br/) as a development reference in the Marketing Team together with areas such as UX, SEO and Marketing Ops.
-
-I am responsible for creating scalable components, while performing well in SEO and traceability. I am also responsible for organizing the development, maintenance of the approval and production environments, in addition to participating in meetings focused on improvements and opportunities for the [Aurum](https://aurum.com.br/) website and Portal.
-
  <div>
   <a href="https://github.com/NSResende">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=NSResende&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
