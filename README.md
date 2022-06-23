@@ -1,5 +1,11 @@
 ## Hello There 👋
 
+Prazer, eu sou o Natã :}
+
+Atuo como desenvolvedor front-end há 2 anos e atualmente trabalho na [Aurum Software](https://aurum.com.br/) como referência de desenvolvimento no Time de Marketing em conjunto com áreas como UX, SEO e Marketing Ops.
+
+Sou responsável por criar componentes escaláveis, ao mesmo tempo que desempenham uma boa performance em SEO e traceabilidade. Também sou responsável pela organização das tarefas de desenvolvimento, manutenção dos ambientes de homologação e produção, além de participar de reuniões com foco em melhorias e oportunidades para o site e Portal da [Aurum](https://aurum.com.br/).
+
 - 🔭  I’m currently working at [Aurum](https://aurum.com.br/)
  <div>
   <a href="https://github.com/NSResende">
