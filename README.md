@@ -6,7 +6,9 @@ Atuo como desenvolvedor front-end há 2 anos e atualmente trabalho na [Aurum Sof
 
 Sou responsável por criar componentes escaláveis, ao mesmo tempo que desempenham uma boa performance em SEO e traceabilidade. Também sou responsável pela organização das tarefas de desenvolvimento, manutenção dos ambientes de homologação e produção, além de participar de reuniões com foco em melhorias e oportunidades para o site e Portal da [Aurum](https://aurum.com.br/).
 
-Nice to meet you, I'm Nathan :}
+--------------------------------
+
+Nice to meet you, I'm Natã :}
 
 I have been working as a front-end developer for 2 years and currently work at Aurum Software as a development reference in the Marketing Team together with areas such as UX, SEO and Marketing Ops.
 
