@@ -2,17 +2,12 @@
 
 Prazer, eu sou o Natã :}
 
-Atuo como desenvolvedor front-end há 3 anos e atualmente trabalho na [Aurum Software](https://aurum.com.br/) como referência de desenvolvimento no Time de Marketing em conjunto com áreas como UX, SEO e Marketing Ops.
-
-Sou responsável por criar componentes escaláveis, ao mesmo tempo que desempenham uma boa performance em SEO e traceabilidade. Também sou responsável pela organização das tarefas de desenvolvimento, manutenção dos ambientes de homologação e produção, além de participar de reuniões com foco em melhorias e oportunidades para o site e Portal da [Aurum](https://aurum.com.br/).
-
+Atuo como desenvolvedor front-end há 3 anos e atualmente trabalho na [Vetta](https://vetta.com.br/pt)
 --------------------------------
 
 Nice to meet you, I'm Natã :}
 
-I have been working as a front-end developer for 3 years and currently work at Aurum Software as a development reference in the Marketing Team together with areas such as UX, SEO and Marketing Ops.
-
-I am responsible for creating scalable components, while performing well in SEO and traceability. I'm also responsible for organizing development tasks, maintenance of approval and production environments, in addition to participating in meetings focused on improvements and opportunities for [Aurum's](https://aurum.com.br/) website and Portal.
+I have been working as a front-end developer for 3 years and currently work at [Vetta](https://vetta.com.br/pt)
 
  <div>
   <a href="https://github.com/NSResende">
