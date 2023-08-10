@@ -1,16 +1,19 @@
 ## Hello There 👋
+I'm Natã, a front-end developer crafting web experiences since 2019.
 
-I'm Natã, a dedicated Front End Developer passionate about curating remarkable user experiences. My journey into web development began in 2019, and since 2020, I've been translating visionary designs into captivating digital realities.
+💼 I'm currently contributing to [Vetta](https://vetta.com.br/pt) global projects alongside a diverse pool of talents from around the globe.
 
-💼 Currently, I'm an instrumental part of [Vetta](https://vetta.com.br/pt), contributing my expertise to Vetta's groundbreaking multinational projects. Working alongside a diverse group of professionals from around the world, we're pioneering web solutions that redefine user interaction and global engagement.
+🌐 Communication is my strength – I simplify complex tech talk for everyone.
 
-🌐 A defining attribute of mine lies in my exceptional communication skills. Beyond writing clean code, I excel in effectively communicating complex technical concepts, enabling seamless collaboration across diverse teams and stakeholders.
+🛠️ Beyond the basics, I dive into React, JavaScript, CSS, HTML, SCSS, Webpack, Babel, TypeScript, and Git, staying ahead of tech trends.
 
-🎨 My repertoire extends beyond coding finesse. I'm well-versed in UX/UI principles, ensuring that each interface I create harmonizes aesthetics with functionality. Additionally, I find great joy in mentoring junior developers, sharing insights, and cultivating an environment of continuous learning.
+💡 I'm all about UX/UI, blending beauty with usability and enhancing Google visibility.
 
-🌍 With an affinity for high-fidelity prototypes, I meticulously transform design blueprints into interactive masterpieces that mirror the original vision.
+🌱 I thrive on knowledge sharing and fostering growth within the tech community.
 
-If you're seeking an accomplished Front End Developer who marries creativity with precision, excels in global collaboration, and champions effective communication, let's connect and explore the possibilities!
+🎨 Creatively, I transform intricate designs into pixel-perfect realities.
+
+If you're seeking a front-end developer who elevates ideas, thrives in challenges, and collaborates globally, let's connect!
 
  <div>
   <a href="https://github.com/NSResende">
