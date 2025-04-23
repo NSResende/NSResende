@@ -1,7 +1,7 @@
 ## Hello There 👋
 I'm Natã, a front-end developer crafting web experiences since 2019.
 
-💼 I'm currently contributing to [Vetta](https://vetta.com.br/pt) global projects alongside a diverse pool of talents from around the globe.
+💼 I'm currently contributing to CODEFORGE.
 
 🌐 Communication is my strength – I simplify complex tech talk for everyone.
 
